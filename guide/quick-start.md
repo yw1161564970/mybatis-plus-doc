@@ -195,7 +195,7 @@ User(id=5, name=Billie, age=24, email=test5@baomidou.com)
 :::
 
 ## 小结
-
+1
 通过以上几个简单的步骤，我们就实现了 User 表的 CRUD 功能，甚至连 XML 文件都不用编写！
 
 从以上步骤中，我们可以看到集成`MyBatis-Plus`非常的简单，只需要引入 starter 工程，并配置 mapper 扫描路径即可。
